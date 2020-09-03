@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+I like to play League of Legends
 Use the left arrow to go back!
